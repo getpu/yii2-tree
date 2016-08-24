@@ -1,12 +1,10 @@
 <?php
 
 /**
- * @copyright Copyright &copy; Kartik Visweswaran, Krajee.com, 2015 - 2016
- * @package   yii2-tree-manager
- * @version   1.0.6
+ * Created by getpu on 16/8/22.
  */
 
-namespace kartik\tree;
+namespace getpu\tree;
 
 use Yii;
 use yii\helpers\Html;
