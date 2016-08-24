@@ -1,14 +1,12 @@
 <?php
 
 /**
- * @copyright Copyright &copy; Kartik Visweswaran, Krajee.com, 2015 - 2016
- * @package   yii2-tree-manager
- * @version   1.0.6
+ * Created by getpu on 16/8/22.
  */
 
 namespace getpu\tree;
 
-use kartik\base\AssetBundle;
+use getpu\AssetBundle;
 
 /**
  * Asset bundle for TreeViewInput widget.
@@ -22,7 +20,7 @@ class TreeViewInputAsset extends AssetBundle
      * @inheritdoc
      */
     public $depends = [
-        'kartik\tree\TreeViewAsset'
+        'getpu\tree\TreeViewAsset'
     ];
 
     /**
