@@ -27,7 +27,7 @@ class ActiveField extends \yii\widgets\ActiveField
     const TYPE_RADIO = 'radio';
     const TYPE_CHECKBOX = 'checkbox';
     const STYLE_INLINE = 'inline';
-    const MULTI_SELECT_HEIGHT = '181px';
+    const MULTI_SELECT_HEIGHT = '182px';
     // hint display settings
     const HINT_DEFAULT = 1;
     const HINT_SPECIAL = 2;
